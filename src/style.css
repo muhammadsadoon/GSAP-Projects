@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    height: 100px;
+    width: 100px;
+    background-color: purple;
+}
+.page1 > div{
+    position: relative;
+}
+.box1{
+    height: 100px;
+    width: 100px;
+    background-color: orangered;
+}
+.box2{
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+}
+.box3{
+    height: 100px;
+    width: 100px;
+    background-color: chartreuse;
+}
+.page{
+    height: 100vh;
+    width: 100%;
+}
+.page1{
+    background-color: red;
+}
+.page2{
+    background-color: skyblue;
+}
+.page3{
+    background-color: lightgreen;
+}
+.page4{
+    background-color: rgb(255, 238, 0);
+}
+.page5{
+    background-color: rgb(251, 0, 255);
+}
